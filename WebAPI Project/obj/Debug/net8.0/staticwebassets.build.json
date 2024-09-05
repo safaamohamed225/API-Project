@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "fxUjRiw8FJkse0R4y71qvd85UlWdxtAGPr/aR+FEBHc=",
+  "Source": "WebAPI Project",
+  "BasePath": "_content/WebAPI Project",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPI Project\\wwwroot",
+      "Source": "WebAPI Project",
+      "ContentRoot": "D:\\ApI Demo\\WebAPI Project\\WebAPI Project\\wwwroot\\",
+      "BasePath": "_content/WebAPI Project",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ApI Demo\\WebAPI Project\\WebAPI Project\\wwwroot\\HtmlConsumer.html",
+      "SourceId": "WebAPI Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ApI Demo\\WebAPI Project\\WebAPI Project\\wwwroot\\",
+      "BasePath": "_content/WebAPI Project",
+      "RelativePath": "HtmlConsumer.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\HtmlConsumer.html"
+    }
+  ]
+}
